@@ -1,0 +1,19 @@
+{
+  "name": "@ccc-studio/shark_bot",
+  "version": "1.0.0",
+  "description": "Bot for any game",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
